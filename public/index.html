@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/css/shop.css" />
+    <script
+      src="https://kit.fontawesome.com/7d5ec8941b.js"
+      crossorigin="anonymous"
+    ></script>
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="app">
+      <header class="head">
+        <div class="container header__flex">
+          <div class="header__left">
+            <filter-el></filter-el>
+          </div>
+          <div class="header__right">
+            <cart ref="cart"></cart>
+          </div>
+        </div>
+        <error ref="error"></error>
+      </header>
+      <products ref="products"></products>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.7.8/dist/vue.js"></script>
+    <script src="/java_script/CartComp.js"></script>
+    <script src="/java_script/PromoComp.js"></script>
+    <script src="/java_script/ProductComp.js"></script>
+    <script src="/java_script/FilterComp.js"></script>
+    <script src="/java_script/ErrorComp.js"></script>
+    <script src="/java_script/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,98 @@
+[
+    {
+        "product_img": "/img/headphones/Anker_3_Pro.jpg",
+        "product_title": "Anker Soundcore Liberty 3 Pro Eclipse Black",
+        "product_desc": "Anker Soundcore Liberty 3 Pro созданы с применением эксклюзивной технологии коаксиальных драйверов ACAA второго поколения, которая обеспечивает точную и естественную передачу звука без помех.",
+        "product_price": 199,
+        "product_id": 100,
+        "quantity": 1
+    },
+    {
+        "product_img": "/img/headphones/beyerdynamic_DT_770.jpg",
+        "product_title": "Beyerdynamic DT 770 PRO 250 ohm",
+        "product_desc": "Легендарная серия DT 770/880/990 уходит корнями еще в 1981 год, когда была выпущена модель DT 880 — первые динамические наушники с характеристиками электростатических. ",
+        "product_price": 299,
+        "product_id": 101,
+        "quantity": 1
+    },
+    {
+        "product_img": "/img/headphones/beyerdynamic_dt_990.jpg",
+        "product_title": "Beyerdynamic DT 990 PRO / 250 ohm",
+        "product_desc": "Легендарные студийные наушники Beyerdynamic DT 990 PRO имеют безупречную репутацию вот уже больше 20 лет! DT 990 PRO — это открытые динамические наушники исключительного качества для самых требовательных аудиофилов и профессионалов.",
+        "product_price": 279,
+        "product_id": 102,
+        "quantity": 1
+    },
+    {
+        "product_img": "/img/headphones/marshall.jpg",
+        "product_title": "Marshall Monitor II ANC Black",
+        "product_desc": "Они дают возможность наслаждаться музыкой в течение всего дня с временем воспроизведения без проводов до 30 часов с активным шумоподавлением и до 45 часов без него, а это значит, что вы никогда не пропустите ни такта.",
+        "product_price": 499,
+        "product_id": 103,
+        "quantity": 1
+    },
+    {
+        "product_img": "/img/headphones/sennheiser.jpg",
+        "product_title": "Sennheiser Momentum 4 Black",
+        "product_desc": "Sennheiser Momentum 4 Wireless — новая модель беспроводных наушников компании. Каждая новая модель серии уверенно продолжает открывать новые горизонты качественного звука.",
+        "product_price": 519,
+        "product_id": 105,
+        "quantity": 1
+    },
+    {
+        "product_img": "/img/speakers/amphion_helium.jpg",
+        "product_title": "Amphion Helium410 White Black",
+        "product_desc": "Amphion Helium410 - это двухполосная акустическая система, которая отлично подойдет тем, кто ищет компактные и удобные в использовании полочные колонки для своего дома.",
+        "product_price": 1199,
+        "product_id": 200,
+        "quantity": 1
+    },
+    {
+        "product_img": "/img/speakers/edifier.jpg",
+        "product_title": "Edifier S1000MK II Brown",
+        "product_desc": "Edifier S1000MK II - компьютерная акустика 2.0 с цифровым входом и Bluetooth. Акустика обеспечивает чистое звучание по кабелю и без кабеля и способна выдать до 120 Вт мощности.",
+        "product_price": 500,
+        "product_id": 201,
+        "quantity": 1
+    },
+    {
+        "product_img": "/img/speakers/amphion.jpg",
+        "product_title": "Amphion Argon3S Black",
+        "product_desc": "Amphion Argon3S - это пассивная акустическая система студийного качества. Акустика предназначена для установки на стойки или мебель.",
+        "product_price": 2799,
+        "product_id": 202,
+        "quantity": 1
+    },
+    {
+        "product_img": "/img/speakers/kef.jpg",
+        "product_title": "KEF LSX II Soundwave by Terence Conran Edition",
+        "product_desc": "KEF LSX II - активная полочная акустика. Эта универсальная акустическая система второго поколения модернизирована для обеспечения более сбалансированного звука с высоким разрешением и возможностью сетевого подключения.",
+        "product_price": 1799,
+        "product_id": 203,
+        "quantity": 1
+    },
+    {
+        "product_img": "/img/players/crosley.jpg",
+        "product_title": "Crosley Cruiser Plus Tweed",
+        "product_desc": "Виниловый проигрыватель Cruiser Plus. Закройте глаза. Представьте, как мягкий и чистый звук заполняет всё пространство вашей комнаты.",
+        "product_price": 129,
+        "product_id": 300,
+        "quantity": 1
+    },
+    {
+        "product_img": "/img/players/project_a1.jpg",
+        "product_title": "Pro-Ject Automat A1",
+        "product_desc": "Модель A1 изготовлена вручную в Германии традиционным производителем с богатым опытом изготовления автоматических поворотных столов.",
+        "product_price": 699,
+        "product_id": 301,
+        "quantity": 1
+    },
+    {
+        "product_img": "/img/players/project_a2.jpg",
+        "product_title": "Pro-Ject Debut RecordMaster II OM5e Gloss Black",
+        "product_desc": "Первый проигрыватель Debut, представленный в конце 1990-х годов, стал революцией в индустрии Hi-Fi.",
+        "product_price": 899,
+        "product_id": 302,
+        "quantity": 1
+    }
+]
